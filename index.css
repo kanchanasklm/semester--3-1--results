@@ -1,0 +1,48 @@
+.background-color{
+    background-color:rgb(211, 185, 189);
+    padding:20px;
+    
+}
+.button-element{
+    text-align:center;
+    background-color:light-blue;
+    border-radius:8px;
+    border-style:solid;
+    border-color:pink;
+    height:50px;
+    width:100px;
+    font-family:"Roboto";
+    font-size:20px;
+}
+.style-select-element{
+
+    
+    margin:3px;
+}
+.button-style
+{
+   height:40px;
+   width:100px;
+   background-color:bisque;
+   border-radius:8px;
+   border-color:black;
+   border-style:solid;
+}
+
+/* label {
+    width:180px;
+    clear:left;
+    text-align:right;
+    padding-right:10px;
+}
+
+input, label {
+    float:left;
+} */
+.center_div
+{
+    height: 100vh;
+    display: flex!important;
+    align-items: center;
+    background-color: aliceblue;
+}
